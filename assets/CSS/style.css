@@ -1,0 +1,45 @@
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+#Hero-Section {
+    background-image: url(../Images/logo\ intro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.list1 {
+    list-style: none;
+}
+
+.cvPicture {
+    display: flex;
+    object-fit: cover;
+    width: 25%;
+}
+
+
+.list {
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+#Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+    .navbar-brand{
+    width: 100px;
+    }
+
+    .Mis-trabajos {
+    margin-top: 5px;
+    padding: 5px;
+      background-color: #00bfff; /* blue */
+    }
