@@ -1,4 +1,4 @@
-# link mi repositorio
+# link a mi repositorio
 
 https://github.com/NicoCuevasB/NicoCuevasB.github.io
 
